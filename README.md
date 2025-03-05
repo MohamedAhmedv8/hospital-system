@@ -5,8 +5,6 @@
 **Created By :**  Mohamed Ahmed
 **Email :** mohamed.ahmed.rc@gmail.com
 
-Hospital System
-
 
 Key Features:
 
