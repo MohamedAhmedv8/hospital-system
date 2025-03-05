@@ -8,11 +8,6 @@
 Hospital System
 
 
-About the Project:
-
-
-This is a fully functional Online Hotel Booking System built with Laravel, designed to provide users with a seamless and efficient booking experience.
-
 Key Features:
 
 ◦ Integrated System: Manages patient records, appointments, and daily operations, improving workflow efficiency by 35%.
