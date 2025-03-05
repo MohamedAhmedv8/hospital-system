@@ -1,6 +1,6 @@
 ## Hospital System
 
-<img src="https://media.licdn.com/dms/image/v2/D4D2DAQHyXn1t3hJAoQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728976741907?e=1741741200&v=beta&t=tOlDngj1vnwUdMEuzw0ENkUVwO0UAUg42sPy732zwoM">
+<img src="https://media.licdn.com/dms/image/v2/D4D2DAQEBPxnfUAAv7Q/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728989820042?e=1741741200&v=beta&t=S4Vw2drHqy9sVRpgZ2N0lVZYlcQvKR2bp599g7VoGIM">
 
 **Created By :**  Mohamed Ahmed
 **Email :** mohamed.ahmed.rc@gmail.com
