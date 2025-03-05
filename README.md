@@ -14,17 +14,18 @@ About the Project:
 This is a fully functional Online Hotel Booking System built with Laravel, designed to provide users with a seamless and efficient booking experience.
 
 Key Features:
+
 ◦ Integrated System: Manages patient records, appointments, and daily operations, improving workflow efficiency by 35%.
 
- ◦ Real-time Notifications: Sends alerts via email and SMS for appointments and updates.
+◦ Real-time Notifications: Sends alerts via email and SMS for appointments and updates.
 
- ◦ Secure Access: Implements authentication, permissions, and role-based access control.
+◦ Secure Access: Implements authentication, permissions, and role-based access control.
 
- ◦ Multilingual Support: Offers translation features for accessibility, increasing user engagement by 20%.
+◦ Multilingual Support: Offers translation features for accessibility, increasing user engagement by 20%.
 
- ◦ Doctor-Patient Communication: Live chat using Livewire and Pusher for instant messaging.
+◦ Doctor-Patient Communication: Live chat using Livewire and Pusher for instant messaging.
 
- ◦ User-Friendly Interface: Optimized frontend and backend for a seamless experience.
+◦ User-Friendly Interface: Optimized frontend and backend for a seamless experience.
 
 
 
@@ -33,7 +34,7 @@ Key Features:
 To get started, clone this repository.
 
 ```
-git clone https://github.com/MohamedAhmedv8/invoices-system
+git clone https://github.com/MohamedAhmedv8/hospital-system
 ```
 
 Next, copy your `.env.example` file as `.env` and configure your Database connection.
