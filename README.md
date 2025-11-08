@@ -1,6 +1,6 @@
 ## Hospital System
 
-<img src="https://d2xqcz296oofyv.cloudfront.net/wp-content/uploads/2022/08/ratio-utility-billing-system-rubs.jpg">
+<img src="">
 
 **Created By :**  Mohamed Ahmed
 **Email :** mohamed.ahmed.rc@gmail.com
